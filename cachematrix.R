@@ -1,5 +1,5 @@
 ## Fuction description
-## This a a pair of fucntion to cache the inverse of a matrix. The when asked
+## This a a pair of fucntions to cache the inverse of a matrix. The when asked
 ## to do inverse of a matrix, the functions will check to see if the inverse
 ## is already stored in cache or not. If the inverse is already existed in the 
 ## cache, the function will try to retrieve it. Otherwise, the function will
